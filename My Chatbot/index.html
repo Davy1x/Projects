@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="all.min.css">
+    </head>
+    <body>
+        <main>
+            <span id="intro_text">Hey There, Thanks For Choosing DavyAi, How Can I Help You ?</span>
+            <button id="start_chat">Start Chat</button>
+        </main>
+
+        <div id="loader">
+            <i class="fas fa-spinner fa-spin"></i>
+        </div>
+
+        <div id="notify">
+            <label for="user_name">Tell us your name!</label>
+            <input id="user_name" type="text" placeholder="Name">
+            <div>
+                <button id="confirm_name">Confirm</button>
+                <button id="cancel_name">Cancel</button>
+            </div>
+
+        </div>
+        <div id="overlay"></div>
+        <script src="main.js"></script>
+    </body>
+</html>
