@@ -1,0 +1,17 @@
+This program was created for the following purposes:
+[ * ] Encrypting sensitive information
+[ * ] Passing information in unreadable formats
+[ * ] P2P encrypted messaging
+
+This program have the following abilities:
+[ * ] Encode text to binary
+[ * ] Encode text to hexadecimal 
+[ * ] Encode text to octa-deximal
+[ * ] Encode text to decimal
+
+[ * ] Decode binary to text
+[ * ] Decode hexadecimal to text
+[ * ] Decode octa-decimal to text
+[ * ] Decode decimal to text
+
+Note: This program was created for security purposes only. The programmer will not be accountable for damages caused with the program.

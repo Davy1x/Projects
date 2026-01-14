@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CGPA Checker</title>
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="../all.min.css">
+</head>
+
+<body id="body">
+  
+  <div id="loader">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Timer-Zero--Streamline-Flex" height="40" width="40">
+      <g>
+        <path id="Union" fill="#ffffff" fill-rule="evenodd" d="M7.75 0.95a0.75 0.75 0 1 0 -1.5 0v1.396a0.75 0.75 0 0 0 1.5 0V0.95Zm-4.5 1.238A0.75 0.75 0 0 0 2.187 3.25l0.987 0.987a0.75 0.75 0 0 0 1.06 -1.061l-0.986 -0.987ZM0.95 6.25a0.75 0.75 0 0 0 0 1.5h1.396a0.75 0.75 0 1 0 0 -1.5H0.95Zm3.286 3.515a0.75 0.75 0 0 1 0 1.06l-0.987 0.987a0.75 0.75 0 0 1 -1.06 -1.06l0.986 -0.987a0.75 0.75 0 0 1 1.06 0Zm7.418 -3.515a0.75 0.75 0 1 0 0 1.5h1.396a0.75 0.75 0 0 0 0 -1.5h-1.396Zm-1.89 3.515a0.75 0.75 0 0 1 1.062 0l0.986 0.986a0.75 0.75 0 1 1 -1.06 1.061l-0.987 -0.986a0.75 0.75 0 0 1 0 -1.061Zm-2.014 1.89a0.75 0.75 0 1 0 -1.5 0v1.395a0.75 0.75 0 0 0 1.5 0v-1.396Zm4.062 -9.467a0.75 0.75 0 0 1 0 1.061l-0.986 0.987a0.75 0.75 0 0 1 -1.061 -1.061l0.986 -0.987a0.75 0.75 0 0 1 1.061 0Z" clip-rule="evenodd" stroke-width="1"></path>
+      </g>
+    </svg>
+    <p>Loading</p>
+  </div>
+  
+  <div id="notification">
+    <i class="fas fa-envelope"></i>
+    <p>Thank you for using our Application!</p>
+    <div>
+      <button>Cancel</button>
+      <button>Accept</button>
+    </div>
+  </div>
+  
+  <header id="header">
+    <div>
+      <img id="app-img-logo" src="../_Media/app.logo.png">
+      <span id="app-text-logo">CGPA Analyzer</span>
+    </div>
+    <div>
+      <p id="add-semester"><i class="fas fa-plus"></i>&nbsp;Add Semester</p>
+    </div>
+  </header>
+  
+  <div id="semester-indicator">
+    
+  </div>
+  
+  <main id="main">
+    
+    <div id="main-empty-container">
+      <img src="../_Media/icon_nocontent.png">
+      <p>No Courses</p>
+    </div>
+    
+  </main>
+  
+  <footer id="footer">
+    <i class="fas fa-bars-staggered"></i>
+    <div>
+      <span><i class="fas fa-trash-can"></i>Delete</span>
+      <span><i class="fas fa-rotate"></i>Reset</span>
+      <span><i class="fas fa-square-plus"></i>Add Course</span>
+      <span><i class="fas fa-robot"></i>AI</span>
+    </div>
+  </footer>
+  
+  <div id="overlay"></div>
+  
+  <script type="text/javascript" src="./main.js" charset="utf-8"></script>
+</body>
+
+</html>
