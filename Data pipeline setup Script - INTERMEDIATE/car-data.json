@@ -1,0 +1,224 @@
+{
+  "cars": [
+    {
+      "car_model": "Toyota Corolla",
+      "engine_type": "Inline-4",
+      "make": "Toyota",
+      "date_created": "2023-03-15",
+      "version": "XLE",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 200,
+      "max_speed": 180
+    },
+    {
+      "car_model": "Honda Civic",
+      "engine_type": "Inline-4",
+      "make": "Honda",
+      "date_created": "2022-11-22",
+      "version": "Sport",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 220,
+      "max_speed": 200
+    },
+    {
+      "car_model": "Ford Mustang",
+      "engine_type": "V8",
+      "make": "Ford",
+      "date_created": "2021-06-01",
+      "version": "GT",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 240,
+      "max_speed": 250
+    },
+    {
+      "car_model": "Tesla Model S",
+      "engine_type": "Electric",
+      "make": "Tesla",
+      "date_created": "2023-01-10",
+      "version": "Plaid",
+      "fuel_type": "Electric",
+      "num_wheels": 4,
+      "km_per_hr": 250,
+      "max_speed": 322
+    },
+    {
+      "car_model": "Chevrolet Bolt",
+      "engine_type": "Electric",
+      "make": "Chevrolet",
+      "date_created": "2022-05-15",
+      "version": "Premier",
+      "fuel_type": "Electric",
+      "num_wheels": 4,
+      "km_per_hr": 180,
+      "max_speed": 150
+    },
+    {
+      "car_model": "BMW 3 Series",
+      "engine_type": "Inline-6",
+      "make": "BMW",
+      "date_created": "2022-09-20",
+      "version": "M340i",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 230,
+      "max_speed": 250
+    },
+    {
+      "car_model": "Audi Q7",
+      "engine_type": "V6",
+      "make": "Audi",
+      "date_created": "2021-12-01",
+      "version": "Prestige",
+      "fuel_type": "Diesel",
+      "num_wheels": 4,
+      "km_per_hr": 200,
+      "max_speed": 220
+    },
+    {
+      "car_model": "Mercedes-Benz",
+      "engine_type": "V8",
+      "make": "Mercedes-Benz",
+      "date_created": "2023-08-05",
+      "version": "S580",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 250,
+      "max_speed": 250
+    },
+    {
+      "car_model": "Porsche 911",
+      "engine_type": "Flat-6",
+      "make": "Porsche",
+      "date_created": "2021-04-12",
+      "version": "Turbo S",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 310,
+      "max_speed": 330
+    },
+    {
+      "car_model": "Lamborghini",
+      "engine_type": "V10",
+      "make": "Lamborghini",
+      "date_created": "2023-02-10",
+      "version": "Evo",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 320,
+      "max_speed": 350
+    },
+    {
+      "car_model": "Ferrari F8 Tributo",
+      "engine_type": "V8",
+      "make": "Ferrari",
+      "date_created": "2022-07-10",
+      "version": "Spider",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 330,
+      "max_speed": 340
+    },
+    {
+      "car_model": "Mazda CX-5",
+      "engine_type": "Inline-4",
+      "make": "Mazda",
+      "date_created": "2022-11-05",
+      "version": "Grand Touring",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 210,
+      "max_speed": 200
+    },
+    {
+      "car_model": "Subaru Outback",
+      "engine_type": "Flat-4",
+      "make": "Subaru",
+      "date_created": "2022-03-22",
+      "version": "Limited",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 190,
+      "max_speed": 185
+    },
+    {
+      "car_model": "Nissan Altima",
+      "engine_type": "Inline-4",
+      "make": "Nissan",
+      "date_created": "2023-04-18",
+      "version": "SR",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 210,
+      "max_speed": 200
+    },
+    {
+      "car_model": "Hyundai Elantra",
+      "engine_type": "Inline-4",
+      "make": "Hyundai",
+      "date_created": "2023-02-09",
+      "version": "N Line",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 230,
+      "max_speed": 220
+    },
+    {
+      "car_model": "Kia Stinger",
+      "engine_type": "V6",
+      "make": "Kia",
+      "date_created": "2021-10-14",
+      "version": "GT",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 240,
+      "max_speed": 250
+    },
+    {
+      "car_model": "Jaguar F-Type",
+      "engine_type": "V6",
+      "make": "Jaguar",
+      "date_created": "2022-05-01",
+      "version": "R-Dynamic",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 250,
+      "max_speed": 260
+    },
+    {
+      "car_model": "Chrysler Pacifica",
+      "engine_type": "V6",
+      "make": "Chrysler",
+      "date_created": "2022-12-15",
+      "version": "Limited",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 180,
+      "max_speed": 160
+    },
+    {
+      "car_model": "Ram 1500",
+      "engine_type": "V8",
+      "make": "Ram",
+      "date_created": "2022-06-30",
+      "version": "Laramie",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 200,
+      "max_speed": 210
+    },
+    {
+      "car_model": "Chevrolet Silverado",
+      "engine_type": "V8",
+      "make": "Chevrolet",
+      "date_created": "2022-07-01",
+      "version": "LT",
+      "fuel_type": "Gasoline",
+      "num_wheels": 4,
+      "km_per_hr": 190,
+      "max_speed": 180
+    }
+  ]
+}
